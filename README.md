@@ -13,3 +13,5 @@ y luego ejecutalo de la siguiente manera,
 ``
 npm run dev
 ``
+
+URL Del tutorial de Youtube: https://youtu.be/bcPhQzgUUyw
